@@ -1,6 +1,6 @@
 # 🧠 Prostate Cancer Detection Using Deep Learning Models
 
-This repository presents a comparative study of multiple deep learning architectures applied to prostate cancer detection and classification. We trained, tested, and analyzed models including **ResNet**, **ConvNet**, **EfficientNet**, and **DenseNet**, evaluating their performance using various metrics and visual analytics.
+This repository presents a comparative study of multiple deep learning architectures applied to prostate cancer detection and classification. I trained, tested, and analyzed models including **ResNet**, **ConvNet**, **EfficientNet**, and **DenseNet**, evaluating their performance using various metrics and visual analytics.
 
 
 ## 🧪 Models Trained
